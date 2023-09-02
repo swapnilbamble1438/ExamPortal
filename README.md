@@ -1,6 +1,6 @@
 # ExamPortal
 ## It is an Online Exam Application. 
--> It is Backend Part for Fronted Part see "ExamPortalAngularGui" Repository.
+           -> It is Backend Part for Fronted Part see "ExamPortalAngularGui" Repository.
 ### It is SpringBoot Project. Build in Spring Tool Suite.
 
 ### Technology used in this Project: 
