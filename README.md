@@ -1,6 +1,12 @@
 # ExamPortal
 ## It is an Online Exam Application. 
             It is Backend Part, for Fronted Part see "ExamPortalAngularGui" Repository.
+ - Admin can create Quizzes with Categories containing Questions based on their Specific category.
+ - Admin can Edit,Delete, Update any Quiz,Category,Question.
+ - Admin can Activate      
+ - User(Normal User) can give Exams.
+ - User(Normal User) can Check their Results.
+              
 ### It is SpringBoot Project. Build in Spring Tool Suite.
 
 ### Technology used in this Project: 
