@@ -37,13 +37,13 @@
 -  Now open Project > src/main/resources > open application.properties file,
    inside this file look for
    
-   spring.datasource.url=jdbc:mysql://localhost:3306/springbootnew?serverTimezone=UTC
+   spring.datasource.url=jdbc:mysql://localhost:3306/examportal?serverTimezone=UTC
 
-   here "springbootnew" is the name of the database.
+   here "examportal" is the name of the database.
    
      so
 
-   ## create database name "springbootnew" in MySQL.
+   ## create database name "examportal" in MySQL.
 
     or
 
