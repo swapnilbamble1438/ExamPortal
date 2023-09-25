@@ -1,6 +1,6 @@
 # ExamPortal
 ## It is an Online Exam Application. 
-            It is Backend Part, for Fronted Part see "ExamPortalAngularGui" Repository.
+            It is Backend Part, for Fronted Part see https://github.com/swapnilbamble1438/ExamPortal
  - Admin can create  Quizzes with Categories,containing Questions based on their Specific Quiz Type.
  - Admin can Edit,Delete, Update any Category,Quiz,Question.
  - Admin can Activate/Deactivate Specific Quiz.  
