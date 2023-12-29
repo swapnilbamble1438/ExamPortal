@@ -11,7 +11,6 @@
  - User(Normal User) can give Exams.
  - User(Normal User) can Check their Results.
               
-### It is SpringBoot Project. Build in Spring Tool Suite.
 
 ### Technology used in this Project: 
 - i) Angular : designing page layout (find it here "ExamPortalAngularGui" Repository). 
